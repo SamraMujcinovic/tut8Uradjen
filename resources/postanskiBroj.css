@@ -1,0 +1,7 @@
+.valid{
+    -fx-background-color: yellowgreen;
+}
+
+.invalid{
+    -fx-background-color: tomato;
+}
